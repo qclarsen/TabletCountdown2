@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="delete_event">Delete this event</string>
+    <string name="add_event">Add Event</string>
+    <string name="name">Name</string>
+    <string name="date_pattern">MMM dd yyyy</string>
+    <string name="days_until">days until</string>
+    <string name="days_since">days since</string>
+</resources>
